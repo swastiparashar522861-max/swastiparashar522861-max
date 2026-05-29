@@ -62,7 +62,6 @@ I'm a **B.Tech student at Bharati Vidyapeeth College of Engineering, Pune** (Exp
 - Built interactive Plotly dashboards + time series forecasts
 - **Key insight:** Global avg education spending ~4% of GDP; 15% of adults lack literacy
 
-![Education Heatmap](https://raw.githubusercontent.com/swastiparashar522861-max/world-bank-education-analysis/main/correlation_heatmap.png)
 
 ---
 
