@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Swasti Parashar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/swasti-parashar-178a4a3b8)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:swasiparashar522861@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/swastiparashar522861-max)
+
+\
 
 ### 📊 Data Analytics Enthusiast | B.Tech Undergraduate
 
@@ -12,49 +11,61 @@
 
 ## 👩‍🎓 About Me
 
-I'm a **B.Tech student at Bharati Vidyapeeth College of Engineering, Pune** (Expected 2027), specializing in **Electronics & Telecommunication Engineering**. I enjoy transforming raw data into actionable insights using Python, SQL, Power BI, and Excel.
+I'm a **B.Tech student at Bharati Vidyapeeth College of Engineering, Pune** (Expected 2027), specializing in **Electronics & Telecommunication Engineering**. I transform raw data into actionable insights using Python, SQL, Power BI, and Excel.
 
 * 🔍 Passionate about **data analysis and data-driven decision making**
 * 📊 Interested in **Business Intelligence, Data Visualization & Machine Learning**
 * 📚 Currently learning **Advanced Statistics & Time Series Forecasting**
-* 🎯 Goal: **Data Analyst driving measurable business impact**
+* 🎯 Goal: **Data Analyst driving business impact**
 * 🎤 Strong communication, leadership & event management skills
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages & Core Tools
+### 🐍 Programming & Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoft-excel\&logoColor=white)
 
-### Data Analysis & Visualization
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=power-bi\&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=python\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-388E8E?style=flat-square\&logo=python\&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square\&logo=plotly\&logoColor=white)
 
-### Machine Learning & Statistics
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-4051B5?style=flat-square\&logo=python\&logoColor=white)
 
-### Databases & Data Engineering
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoft-sql-server\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 
-### Tools & Platforms
+\
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+### 📊 BI & Data Visualization
+
+
+
+
+
+
+\
+
+### 🗄️ Data Engineering & Databases
+
+
+
+
+
+\
+
+### 🤖 Machine Learning & Statistics
+
+
+
+
+
+\
+
+### 🔧 Tools & Platforms
+
+
+
+
+
+\
 
 ---
 
@@ -62,11 +73,10 @@ I'm a **B.Tech student at Bharati Vidyapeeth College of Engineering, Pune** (Exp
 
 ### 📉 Customer Churn Prediction
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square\&logo=github)](https://github.com/swastiparashar522861-max/telecom-churn-analysis)
-[![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-ETL-CC2927?style=flat-square\&logo=microsoft-sql-server\&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=flat-square\&logo=power-bi\&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Random_Forest-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/)
+
+
+
+\
 
 *SQL Server ETL · Power BI DAX · Random Forest · Customer Churn Prediction*
 
@@ -77,17 +87,14 @@ I'm a **B.Tech student at Bharati Vidyapeeth College of Engineering, Pune** (Exp
 * Built an interactive **Power BI dashboard with DAX KPIs**, reducing executive reporting turnaround time by **50%**.
 * Implemented self-service demographic slicers, reducing dependency on ad-hoc SQL requests.
 
-![Churn Dashboard](https://raw.githubusercontent.com/swastiparashar522861-max/telecom-churn-analysis/main/screenshots/summary_page.png)
-
 ---
 
 ### 🌍 Global Education Analysis
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square\&logo=github)](https://github.com/swastiparashar522861-max/world-bank-education-analysis)
-[![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square\&logo=sqlite\&logoColor=white)](https://www.sqlite.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-Dashboard-3F4F75?style=flat-square\&logo=plotly)](https://plotly.com/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/)
+
+
+
+\
 
 *World Bank API · SQLite · K-Means Clustering · Statistical Analysis · Time Series Forecasting*
 
@@ -102,9 +109,8 @@ I'm a **B.Tech student at Bharati Vidyapeeth College of Engineering, Pune** (Exp
 
 ### 💰 Financial Risk Dashboard
 
-[![Excel](https://img.shields.io/badge/Excel-Advanced_Analysis-217346?style=flat-square\&logo=microsoft-excel\&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Pivot Tables](https://img.shields.io/badge/Excel-Pivot_Tables-217346?style=flat-square\&logo=microsoft-excel\&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Data Visualization](https://img.shields.io/badge/Data-Visualization-4285F4?style=flat-square)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+\
 
 *Excel · Pivot Tables · KPI Design · Financial Risk Analysis · Data Visualization*
 
@@ -115,43 +121,30 @@ I'm a **B.Tech student at Bharati Vidyapeeth College of Engineering, Pune** (Exp
 * Identified approximately **45% of customers with credit utilization above 70%**.
 * Detected fraud clusters representing approximately **5% of cases**, concentrated within specific customer segments.
 * Designed an interactive **Excel dashboard** tracking revenue, customer segments, financial risk, and product performance.
-
-> 🔗 Add your Financial Risk Dashboard repository link here once you upload the project to GitHub.
+* Identified approximately **25% of customers as high-risk**, contributing to the majority of financial risk in the portfolio.
 
 ---
 
 ## 📜 Professional Certifications & Specialized Courses
 
-| Certification / Course                             | Issuer                      | Link                                                                                                                                                                          |
-| :------------------------------------------------- | :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Python 3.4.3 Programming**                       | Spoken Tutorial, IIT Bombay | [![Spoken Tutorial](https://img.shields.io/badge/Spoken_Tutorial-IIT_Bombay-800000?style=flat-square)](https://spoken-tutorial.org/)                                          |
-| **Data Science — Elite Certification**             | NPTEL                       | [![NPTEL](https://img.shields.io/badge/NPTEL-Elite-FF9933?style=flat-square)](https://nptel.ac.in/)                                                                           |
-| **Google Data Analytics Professional Certificate** | Coursera                    | [![Coursera](https://img.shields.io/badge/Coursera-Google_Data_Analytics-0056D2?style=flat-square)](https://www.coursera.org/professional-certificates/google-data-analytics) |
-| **Advanced Data Analysis with Excel**              | Udemy                       | [![Udemy](https://img.shields.io/badge/Udemy-Excel-A435F0?style=flat-square)](https://www.udemy.com/)                                                                         |
-| **Data Analysis Certification Course**             | CodeWithHarry               | [![CodeWithHarry](https://img.shields.io/badge/CodeWithHarry-Data_Analysis-FF6B35?style=flat-square)](https://www.codewithharry.com/)                                         |
-| **Data Analysis Job Simulation**                   | Deloitte                    | [![Deloitte](https://img.shields.io/badge/Deloitte-Job_Simulation-86BC25?style=flat-square)](https://www.deloitte.com/)                                                       |
+| Certification / Course                             | Issuer                      | Link |
+| :------------------------------------------------- | :-------------------------- | :--- |
+| **Python 3.4.3 Programming**                       | Spoken Tutorial, IIT Bombay |      |
+| **Data Science — Elite Certification**             | NPTEL                       |      |
+| **Google Data Analytics Professional Certificate** | Coursera                    |      |
+| **Advanced Data Analysis with Excel**              | Udemy                       |      |
+| **Data Analysis Certification Course**             | CodeWithHarry               |      |
+| **Data Analysis Job Simulation**                   | Deloitte                    |      |
 
----
+##
 
-## 🏆 Achievements
 
-![Leadership](https://img.shields.io/badge/Leadership-Secretary_IETE-FFD700?style=flat-square)
-![Communication](https://img.shields.io/badge/Skills-Communication_&_Anchoring-00A8E8?style=flat-square)
-![Event Management](https://img.shields.io/badge/Event_Management-Coordinator-28A745?style=flat-square)
 
-* **Elected Secretary** — IETE Student Group, Bharati Vidyapeeth COE, Pune
+🎓 Education
 
-  * Organize technical events, manage team communication, and coordinate administrative operations.
-* **Poster Making** — Creative data visualization & design
-* **Anchoring** — Regular host for college events & technical fests
-
----
-
-## 🎓 Education
-
-| Degree     | Institution                  | Year          | Field                                       |
-| :--------- | :--------------------------- | :------------ | :------------------------------------------ |
-| **B.Tech** | Bharati Vidyapeeth COE, Pune | Expected 2027 | Electronics & Telecommunication Engineering |
+| Degree     | Institution                                     | Year      | Field                                       |
+| :--------- | :---------------------------------------------- | :-------- | :------------------------------------------ |
+| **B.Tech** | Bharati Vidyapeeth College of Engineering, Pune | 2023–2027 | Electronics & Telecommunication Engineering |
 
 ---
 
@@ -174,7 +167,7 @@ I'm a **B.Tech student at Bharati Vidyapeeth College of Engineering, Pune** (Exp
   <a href="https://www.linkedin.com/in/swasti-parashar-178a4a3b8">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:swasiparashar522861@gmail.com">
+  <a href="mailto:[swasiparashar522861@gmail.com](mailto:swasiparashar522861@gmail.com)">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/swastiparashar522861-max">
@@ -191,3 +184,4 @@ I'm a **B.Tech student at Bharati Vidyapeeth College of Engineering, Pune** (Exp
 <p align="center">
   <i>"Data is the new oil — only valuable when refined."</i>
 </p>
+
