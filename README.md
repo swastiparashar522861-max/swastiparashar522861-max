@@ -23,52 +23,45 @@ I'm a **B.Tech student at Bharati Vidyapeeth College of Engineering, Pune** (Exp
 
 ## 🛠️ Technical Skills
 
-### 🐍 Programming & Data Analysis
+### Languages & Core Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+### Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-388E8E?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
+### Machine Learning & Statistics
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-F7931E?style=flat-square)
+![K-Means](https://img.shields.io/badge/K--Means_Clustering-FF6F00?style=flat-square)
+![ANOVA](https://img.shields.io/badge/ANOVA-5C6BC0?style=flat-square)
+![T-Test](https://img.shields.io/badge/T--Test-3949AB?style=flat-square)
+![Time Series](https://img.shields.io/badge/Time_Series_Forecasting-00897B?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-673AB7?style=flat-square)
 
+### Databases & Data Engineering
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-4A90E2?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-27AE60?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8E44AD?style=flat-square)
+![Database Management](https://img.shields.io/badge/Database_Management-34495E?style=flat-square)
 
-
-
-
-
-\
-
-### 📊 BI & Data Visualization
-
-
-
-
-
-
-\
-
-### 🗄️ Data Engineering & Databases
-
-
-
-
-
-\
-
-### 🤖 Machine Learning & Statistics
-
-
-
-
-
-\
-
-### 🔧 Tools & Platforms
-
-
-
-
-
-\
-
----
-
+### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![World Bank API](https://img.shields.io/badge/World_Bank_API-0071BC?style=flat-square)
+![Power BI Desktop](https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ## 📌 Featured Projects
 
 ### 📉 Customer Churn Prediction
